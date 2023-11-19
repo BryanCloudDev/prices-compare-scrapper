@@ -18,5 +18,9 @@
     "eslint-plugin-promise": "^6.0.0",
     "prettier": "^3.1.0",
     "typescript": "*"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^21.5.2"
   }
 }
